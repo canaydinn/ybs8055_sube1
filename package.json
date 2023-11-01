@@ -1,0 +1,20 @@
+{
+  "name": "ybs8055_sube1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canaydinn/ybs8055_sube1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canaydinn/ybs8055_sube1/issues"
+  },
+  "homepage": "https://github.com/canaydinn/ybs8055_sube1#readme"
+}
